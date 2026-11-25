@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola, soy Johan Montoya!
+# ¡Hola, soy Johan! 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+Medell%C3%ADn%2C+Colombia;React+%7C+Node.js+%7C+Django+%7C+Three.js;APIs+REST+%7C+MySQL+%7C+MongoDB" alt="Typing SVG" />
