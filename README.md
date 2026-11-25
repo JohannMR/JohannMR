@@ -1,28 +1,44 @@
-# Hola, soy Johan 👋
+<div align="center">
 
-### Desarrollador Full Stack · Medellín, Colombia
+# 👋 ¡Hola, soy Johan!
 
-Construyo aplicaciones web, APIs REST e interfaces interactivas cuidando tanto la arquitectura del backend como la experiencia visual y de usuario. Actualmente en etapa práctica de **Análisis y Desarrollo de Software (ADSO)** en el **SENA** y trabajando en entorno empresarial.
+### 💻 Desarrollador Full Stack · Medellín, Colombia
 
----
+Construyo aplicaciones web, APIs REST e interfaces interactivas, cuidando tanto la arquitectura del backend como la experiencia visual y de usuario. Actualmente me encuentro en etapa práctica de formación.
 
-### 🛠️ Stack & Herramientas
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohannMR)
+[![Ubicación](https://img.shields.io/badge/Medellín-Colombia-1677C8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Medell%C3%ADn%2C+Colombia)
 
-* **Lenguajes:** JavaScript · Python · SQL
-* **Frontend & UI:** React · HTML5 · CSS3 · Bootstrap · EJS · Three.js
-* **Backend & APIs:** Node.js · Express · Django · Django REST Framework · APIs REST
-* **Bases de Datos & Entorno:** MySQL · MongoDB · MongoDB Atlas · Git · GitHub · Docker · Linux
+</div>
 
 ---
 
-### 🚀 Proyecto Destacado
+## 🛠️ Stack & herramientas
 
-* **INTSHOT** — Plataforma de gestión de inventario textil, catálogo, usuarios, carrito y control contable desarrollada con enfoque Full Stack (Django y Node.js/Express/MongoDB), con respaldos automatizados y despliegue en la nube.
-* https://github.com/jmorenoyepes-ai/INTSHOT-django
+| Área | Tecnologías |
+|:--|:--|
+| 🔹 **Lenguajes** | JavaScript · Python · SQL |
+| 🔹 **Frontend & UI** | React · HTML5 · CSS3 · Bootstrap · EJS · Three.js |
+| 🔹 **Backend & APIs** | Node.js · Express · Django · Django REST Framework · APIs REST |
+| 🔹 **Bases de datos & entorno** | MySQL · MongoDB · MongoDB Atlas · Git · GitHub · Docker · Linux |
 
 ---
 
-### 📫 Contacto
+## 🚀 Proyecto destacado
 
-* **Correo:** `montoyajohan100@gmail.com`
-* **Ubicación:** Medellín, Colombia
+### [INTSHOT](https://github.com/jmorenoyepes-ai/INTSHOT-django)
+
+Plataforma de gestión de inventario textil, catálogo, usuarios, carrito y control contable, desarrollada con enfoque Full Stack (Django y Node.js/Express/MongoDB), con respaldos.
+
+---
+
+## 📫 Contacto
+
+- ✉️ **Correo:** [montoyajohan100@gmail.com](mailto:montoyajohan100@gmail.com)
+- 📍 **Ubicación:** Medellín, Colombia
+
+---
+
+<div align="center">
+  <sub>Gracias por visitar mi perfil 💙</sub>
+</div>
