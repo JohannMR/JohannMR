@@ -18,6 +18,7 @@ Construyo aplicaciones web, APIs REST e interfaces interactivas cuidando tanto l
 ### 🚀 Proyecto Destacado
 
 * **INTSHOT** — Plataforma de gestión de inventario textil, catálogo, usuarios, carrito y control contable desarrollada con enfoque Full Stack (Django y Node.js/Express/MongoDB), con respaldos automatizados y despliegue en la nube.
+* https://github.com/jmorenoyepes-ai/INTSHOT-django
 
 ---
 
