@@ -48,5 +48,5 @@ Plataforma de gestión de inventario textil, catálogo, usuarios, carrito y cont
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0284C7,50:1D4ED8,100:38BDF8&height=110&section=footer" width="100%" alt="Wave footer" />
-  <sub>Gracias por visitar mi perfil 💙 · Johan Montoya</sub>
+  <sub>Gracias por visitar mi perfil · Johan Montoya</sub>
 </div>
