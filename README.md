@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Johan 👋
 
-<!--
-**JohannMR/JohannMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack · Medellín, Colombia
 
-Here are some ideas to get you started:
+Construyo aplicaciones web, APIs REST e interfaces interactivas cuidando tanto la arquitectura del backend como la experiencia visual y de usuario. Actualmente en etapa práctica de **Análisis y Desarrollo de Software (ADSO)** en el **SENA** y trabajando en entorno empresarial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack & Herramientas
+
+* **Lenguajes:** JavaScript · Python · SQL
+* **Frontend & UI:** React · HTML5 · CSS3 · Bootstrap · EJS · Three.js
+* **Backend & APIs:** Node.js · Express · Django · Django REST Framework · APIs REST
+* **Bases de Datos & Entorno:** MySQL · MongoDB · MongoDB Atlas · Git · GitHub · Docker · Linux
+
+---
+
+### 🚀 Proyecto Destacado
+
+* **INTSHOT** — Plataforma de gestión de inventario textil, catálogo, usuarios, carrito y control contable desarrollada con enfoque Full Stack (Django y Node.js/Express/MongoDB), con respaldos automatizados y despliegue en la nube.
+
+---
+
+### 📫 Contacto
+
+* **Correo:** `montoyajohan100@gmail.com`
+* **Ubicación:** Medellín, Colombia
